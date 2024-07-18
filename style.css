@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+#contenedor{
+    display: flex;
+    justify-content: center;
+    border-color: aliceblue;
+}
+#contenido{
+    
+    border: solid 1px;
+    padding: 30px 20px;
+}
