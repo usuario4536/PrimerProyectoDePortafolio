@@ -13,3 +13,13 @@
     border: solid 1px;
     padding: 30px 20px;
 }
+#contenedor2{
+    display: flex;
+    justify-content: center;
+    border-color: aliceblue;
+}
+#contenido2{
+    
+    border: solid 1px;
+    padding: 30px 20px;
+}
