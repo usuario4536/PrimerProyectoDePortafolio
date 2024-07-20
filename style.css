@@ -25,7 +25,7 @@ a{
 }
 #presentacion{
     color: white;
-    height: 583px;
+    height: 565px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -38,4 +38,39 @@ a{
 }
 #presentacion p{
     font-size: 20px
+}
+#sobreMi{
+    
+    color: white;
+    height: 632px;
+    display: flex;
+    flex-direction: row;
+    background-image: url(fondo1.jpg);
+    
+}
+#sobreMi #imagen-sobreMi{
+    border-right: 1px solid;
+    width: 50%;
+    height: 100%;
+    
+    
+}
+#sobreMi #informacion-sobreMi{
+    width: 50%;
+    height: 100%;
+    border-right: solid 0.5px ;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+     
+}
+#sobreMi #informacion-sobreMi p{
+    font-size: 20px;
+    margin: 15px;
+}
+
+#sobreMi #informacion-sobreMi h1{
+    margin-bottom: 30px;
 }
