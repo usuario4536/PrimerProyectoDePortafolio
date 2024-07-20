@@ -21,4 +21,21 @@ a{
     text-decoration: none;
     color: white;
     padding: 16px 35px;
+    
+}
+#presentacion{
+    color: white;
+    height: 583px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: "Roboto Condensed", sans-serif;
+}
+#presentacion h1{
+    font-size: 70px;
+    margin-bottom: 20px;
+}
+#presentacion p{
+    font-size: 20px
 }
