@@ -74,3 +74,58 @@ a{
 #sobreMi #informacion-sobreMi h1{
     margin-bottom: 30px;
 }
+#Habilidades{
+    height: 632px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Kanit", sans-serif;
+}
+#Habilidades #habilidades-contenido{
+    border: solid white;
+    width: 80%;
+    height: 80%;
+    border-radius: 8px;
+    background-color: #9F34B5;
+    color: hsl(0, 0%, 100%);
+    
+}
+#Habilidades #habilidades-contenido h1{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 50px;
+    font-family: "Kanit", sans-serif;
+}
+#Habilidades #habilidades-contenido #contenedor-habilidades{
+    display: flex;
+    justify-content: center;
+
+}
+#Habilidades #habilidades-contenido #contenedor-habilidades p{
+    margin: 50px 80px 0 80px;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    text-align: center;
+}
+#Habilidades #habilidades-contenido #contenedor-habilidades p button{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    border: none;
+    margin-top: 50px;
+    background-color: black;
+}
+#Habilidades #habilidades-contenido #contenedor-habilidades p #javascript{
+    margin-left: 20px;
+}
+#Habilidades #habilidades-contenido #contenedor-habilidades p #git{
+    margin-left: 10px;
+}
+#Habilidades #habilidades-contenido #contenedor-habilidades p button img{
+    height: 35px;
+    width: 60px;
+}
+
