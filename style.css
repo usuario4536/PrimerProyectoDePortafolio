@@ -128,4 +128,10 @@ a{
     height: 35px;
     width: 60px;
 }
+#Habilidades #habilidades-contenido #contenedor-habilidades p button #javascript-logo{
+    width: 40px;
+}
+#Habilidades #habilidades-contenido #contenedor-habilidades p button #git-logo{
+    width: 40px;
+}
 
