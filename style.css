@@ -134,4 +134,21 @@ a{
 #Habilidades #habilidades-contenido #contenedor-habilidades p button #git-logo{
     width: 40px;
 }
+#Experiencia{
+    height: 832px;
+    background-image: url(fondo1.jpg);
+    color: white;
+    border-top: 1px solid;
+    
+}
+#Experiencia #fila1{
+    border: solid;
+    height: 230px;
+    margin-top: 120px;
+}
+#Experiencia #fila2{
+    border: solid;
+    height: 230px;
+    margin-top: 130px
+}
 
