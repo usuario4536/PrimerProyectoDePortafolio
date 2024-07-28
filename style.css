@@ -173,6 +173,12 @@ a{
 }
 #Experiencia #fila1 div h1{
     font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+}
+#Experiencia #fila1 div p{
+    margin-top: 25px;
+    text-align: center;
 }
 #Experiencia #fila2 div{
     border: 4px solid rgb(255, 219, 121);
@@ -183,4 +189,10 @@ a{
 }
 #Experiencia #fila2 div h1{
     font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+}
+#Experiencia #fila2 div p{
+    margin-top: 25px;
+    text-align: center;
 }
