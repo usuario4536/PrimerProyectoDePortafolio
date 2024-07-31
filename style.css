@@ -5,8 +5,6 @@
 }
 body{
     background-image: url(fondo1.jpg);
-    
-
 }
 nav{
     height: 50px;
@@ -135,7 +133,7 @@ a{
     width: 40px;
 }
 #Experiencia{
-    height: 832px;
+    height: 1000px;
     background-image: url(fondo1.jpg);
     color: white;
     border-top: 1px solid;
@@ -179,6 +177,7 @@ a{
 #Experiencia #fila1 div p{
     margin-top: 25px;
     text-align: center;
+    
 }
 #Experiencia #fila2 div{
     border: 4px solid rgb(255, 219, 121);
@@ -195,4 +194,70 @@ a{
 #Experiencia #fila2 div p{
     margin-top: 25px;
     text-align: center;
+}
+#Contactenos{
+    height: 800px;
+    color: white;
+    display: flex;
+    font-family: "Prompt", sans-serif;
+}
+#Contactenos #seccion1{
+    border-right: 0.5px solid;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+#Contactenos #seccion1 h1{
+    font-size: 60px;
+    margin-left: 30px;
+}
+p{
+    margin-left: 30px;
+}
+#Contactenos #seccion1 #email{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#Contactenos #seccion1 #contact-text{
+    margin-bottom: 20px;
+}
+#Contactenos #seccion1 #imagenes-contactenos{
+    margin-top: 50px;
+}
+#Contactenos #seccion1 #imagenes-contactenos #img1{
+    border: solid;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+}
+#Contactenos #seccion1 #imagenes-contactenos #img2{
+    border: solid;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+}
+#Contactenos #seccion1 #imagenes-contactenos #img3{
+    border: solid;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+}
+#Contactenos #seccion1 #imagenes-contactenos #img4{
+    border: solid;
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+}
+#Contactenos #seccion2{
+    border-left: 0.5px solid;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#Contactenos #seccion2 img{
+    width: 60%;
+    height: 50%;
 }
