@@ -15,4 +15,6 @@ function funcion(){
 function funcion2(){
     return document.getElementById("sobreMi").style.display = "none";
 }
+console.log("intento decomunicacion")
+console.log("servidor activo??")
 
