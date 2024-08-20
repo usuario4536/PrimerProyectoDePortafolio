@@ -18,3 +18,5 @@ function funcion2(){
 console.log("intento decomunicacion")
 console.log("servidor activo??")
 
+console.log("recibido")
+console.log("servidor operando")
