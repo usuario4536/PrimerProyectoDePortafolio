@@ -20,3 +20,12 @@ console.log("servidor activo??")
 
 console.log("recibido")
 console.log("servidor operando")
+console.log("12" + "3")
+
+function funcion2(){
+    console.log("hello world")
+}
+
+//let intervalo = 0
+//intervalo = setInterval(funcion2, 500)
+
